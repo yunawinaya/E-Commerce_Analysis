@@ -1,5 +1,5 @@
 # E-Commerce_Analysis
-Perqara Assessment - E-Commerce Dataset Analysis
+E-Commerce Dataset Analysis
 
 The objective of this notebook is to propose an analytical view of e-commerce relationship within the data. 
 For this first I went trough an exploratory data analysis using graphical tools to create self explanatory plots for better understanding what is behind the data online purchasing.
